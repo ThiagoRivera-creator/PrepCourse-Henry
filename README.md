@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este Un Repositorio De PrepCourse Modulo 2
+Este proyecto es una pruebab de como clonar un repositorio de git hub y pasarlo al escritorio local
+
